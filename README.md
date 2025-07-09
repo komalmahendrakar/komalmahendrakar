@@ -10,9 +10,11 @@ I enjoy crafting responsive, clean, and intuitive web apps — and adding a litt
 - 🔗 REST APIs, routing, auth, and deployment
 
 ### 🚧 Currently exploring
-- 🧠 Java + DSA – focusing on writing efficient solutions
-- 📦 Backend structure, clean architecture, and testing
-- 🌐 Cloud platforms like Vultr for hosting real-world projects
+-🔍 Advanced backend architecture – layered patterns, modular design, and clean code principles
+- 🧠 Data Structures & Algorithms in Java – focusing on real-world problem solving and coding interviews
+- 🌐 System design fundamentals – designing scalable, fault-tolerant systems and APIs.
+- 🤖 Generative AI – exploring how LLMs work, building small prototypes using open models 
+
 
 **Always learning. Always building.**
 
